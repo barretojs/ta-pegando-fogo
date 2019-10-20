@@ -1,9 +1,0 @@
-C:\Users\rafaellandim\source\repos\SpaceAppsChallenge\SpaceAppsChallenge.Analysers\obj\Debug\SpaceAppsChallenge.Analysers.csprojAssemblyReference.cache
-C:\Users\rafaellandim\source\repos\SpaceAppsChallenge\SpaceAppsChallenge.Analysers\obj\Debug\SpaceAppsChallenge.Analysers.csproj.CoreCompileInputs.cache
-C:\Users\rafaellandim\source\repos\SpaceAppsChallenge\SpaceAppsChallenge.Analysers\bin\Debug\SpaceAppsChallenge.Analysers.dll
-C:\Users\rafaellandim\source\repos\SpaceAppsChallenge\SpaceAppsChallenge.Analysers\bin\Debug\SpaceAppsChallenge.Analysers.pdb
-C:\Users\rafaellandim\source\repos\SpaceAppsChallenge\SpaceAppsChallenge.Analysers\bin\Debug\SpaceAppsChallenge.Model.dll
-C:\Users\rafaellandim\source\repos\SpaceAppsChallenge\SpaceAppsChallenge.Analysers\bin\Debug\SpaceAppsChallenge.Model.pdb
-C:\Users\rafaellandim\source\repos\SpaceAppsChallenge\SpaceAppsChallenge.Analysers\obj\Debug\SpaceAppsChallenge.Analysers.csproj.CopyComplete
-C:\Users\rafaellandim\source\repos\SpaceAppsChallenge\SpaceAppsChallenge.Analysers\obj\Debug\SpaceAppsChallenge.Analysers.dll
-C:\Users\rafaellandim\source\repos\SpaceAppsChallenge\SpaceAppsChallenge.Analysers\obj\Debug\SpaceAppsChallenge.Analysers.pdb
