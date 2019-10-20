@@ -12,12 +12,10 @@ export class AppService {
 
   makeCall(queryBody): string {
 
-    const from = '+18592983029';
-    const xmlUrl = 'http://pegando-fogo-3o3l.localhost.run';
+    const from = '';
+    const xmlUrl = '';
 
-    let twilio = new Twilio('ACc8771dd2f216225085878a51da25b9bf', '674cc7f8c7ea352de6005420aa086443');
-
-    // this.httpClient.get(`http://api.openweathermap.org/data/2.5/weather?lat=${queryBody.}&lon=-49.37944&appid=f48d93cf79caeb4cdf990386aa8df5f3&units=metric`)
+    let twilio = new Twilio('', '');
 
     let umidade = queryBody.umidade || '13';
     let vento = queryBody.vento || '6';
@@ -25,7 +23,7 @@ export class AppService {
     let lng = queryBody.latLng.split(' ')[1];
     let usuarios = queryBody.usuarios || '2';
     let confidence = queryBody.confidence || '93';
-    let to = queryBody.tel || '+5518991005519';
+    let to = queryBody.tel || '';
 
     let xml = jsonxml({
       Response: [
