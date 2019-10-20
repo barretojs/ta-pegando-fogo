@@ -1,6 +1,0 @@
-C:\Users\rafaellandim\source\repos\SpaceAppsChallenge\SpaceAppsChallenge.Model\bin\Debug\SpaceAppsChallenge.Model.dll
-C:\Users\rafaellandim\source\repos\SpaceAppsChallenge\SpaceAppsChallenge.Model\bin\Debug\SpaceAppsChallenge.Model.pdb
-C:\Users\rafaellandim\source\repos\SpaceAppsChallenge\SpaceAppsChallenge.Model\obj\Debug\SpaceAppsChallenge.Model.csproj.CoreCompileInputs.cache
-C:\Users\rafaellandim\source\repos\SpaceAppsChallenge\SpaceAppsChallenge.Model\obj\Debug\SpaceAppsChallenge.Model.dll
-C:\Users\rafaellandim\source\repos\SpaceAppsChallenge\SpaceAppsChallenge.Model\obj\Debug\SpaceAppsChallenge.Model.pdb
-C:\Users\rafaellandim\source\repos\SpaceAppsChallenge\SpaceAppsChallenge.Model\obj\Debug\SpaceAppsChallenge.Model.csprojAssemblyReference.cache
