@@ -1,0 +1,47 @@
+[
+	{
+		"Name": "Defesa Civil",
+		"Telephony": "+5518991005519",
+		"Type": 1,
+		"Latitude": -9.772,
+		"Longitude": -36.067,
+		"OperatingRange": 20000,
+		"ApiKey": "123123123123123"
+	},
+	{
+		"Name": "Corpo de Bombeiros",
+		"Telephony": "+5511998564184",
+		"Type": 1,
+		"Latitude": -9.772,
+		"Longitude": -36.067,
+		"OperatingRange": 25000,
+		"ApiKey": null
+	},
+	{
+		"Name": "Representante local",
+		"Telephony": "+5517991721950",
+		"Type": 1,
+		"Latitude": -40697,
+		"Longitude": -63131,
+		"OperatingRange": 10000,
+		"ApiKey": null
+	},
+	{
+		"Name": "Waze",
+		"Telephony": "1",
+		"Type": 0,
+		"Latitude": 0,
+		"Longitude": 0,
+		"OperatingRange": 10,
+		"ApiKey": null
+	},
+	{
+		"Name": "Google Maps",
+		"Telephony": "0",
+		"Type": 0,
+		"Latitude": 0,
+		"Longitude": 0,
+		"OperatingRange": 0,
+		"ApiKey": null
+	}
+]
