@@ -5,6 +5,8 @@
   Cross-check information provided by the user with data provided by <a href="https://www.nasa.gov/" target="blank">NASA</a> for fire outbreak identification and report to responsible agencies (Firefighter etc...).
 </p>
 
+[Link to the bot in Telegram (Whatsapp coming soon)](https://t.me/TaPegandoFogoBichoBot)
+
 [Link to a example phone call (en-us)](https://soundcloud.com/neiesc/nasa-space-apps-report-that-fire-en-us)
 
 [Link to a example phone call (pt-br)](https://soundcloud.com/neiesc/nasa-space-apps-report-that-fire-pt-br)
