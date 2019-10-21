@@ -29,10 +29,10 @@
 
 * [Matheus Henrique Figueiredo](https://www.facebook.com/matheushenrique.figueiredorafael)
 
-* [Rafael Carreira](https://www.facebook.com/rafel747)
+* [Rafael Carreira](http://teffa.dev/)
 
 * [Rafael Landim](https://www.facebook.com/rafael.landim.3975)
 
-* Renan Luz
+* [Renan Luz](https://www.linkedin.com/in/renan-luz/)
 
 * [Sabrina Gonçalves](https://www.facebook.com/sabrina.goncalves.42)
