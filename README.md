@@ -35,4 +35,4 @@
 
 * [Renan Luz](https://www.linkedin.com/in/renan-luz/)
 
-* [Sabrina Gonçalves](https://www.facebook.com/sabrina.goncalves.42)
+* [Sabrina Gonçalves](https://www.facebook.com/sabrina.goncalves.42) (sgoncalvesabrina@gmail.com)
