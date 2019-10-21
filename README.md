@@ -1,11 +1,11 @@
-* # Tá pegando fogo, bixo! (SPOT THAT FIRE V2.0 - NASA Space Apps Challenge 2019)
+# Tá pegando fogo, bixo! (SPOT THAT FIRE V2.0 - NASA Space Apps Challenge 2019)
 <p align="center">
   <a href="https://2019.spaceappschallenge.org/challenges/living-our-world/spot-fire-v20/teams/ta-pegando-fogo-bixo/project" target="blank"><img src="https://github.com/neiesc/ta-pegando-fogo/raw/master/layout/report_that_fire.width-800.png" width="320" alt="Team: Tá pegando fogo, bixo!" /></a>
   <br/>
   Cross-check information provided by the user with data provided by <a href="https://www.nasa.gov/" target="blank">NASA</a> for fire outbreak identification and report to responsible agencies (Firefighter etc...).
 </p>
 
-[Link to the bot in Telegram (Whatsapp coming soon)](https://t.me/TaPegandoFogoBichoBot)
+[Link to the bot in Telegram](https://t.me/TaPegandoFogoBichoBot) (Whatsapp coming soon)
 
 [Link to a example phone call (en-us)](https://soundcloud.com/neiesc/nasa-space-apps-report-that-fire-en-us)
 
