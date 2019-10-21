@@ -1,4 +1,4 @@
-# Tá pegando fogo, bixo! (SPOT THAT FIRE V2.0 - NASA Space Apps Challenge 2019)
+* # Tá pegando fogo, bixo! (SPOT THAT FIRE V2.0 - NASA Space Apps Challenge 2019)
 <p align="center">
   <a href="https://2019.spaceappschallenge.org/challenges/living-our-world/spot-fire-v20/teams/ta-pegando-fogo-bixo/project" target="blank"><img src="https://github.com/neiesc/ta-pegando-fogo/raw/master/layout/report_that_fire.width-800.png" width="320" alt="Team: Tá pegando fogo, bixo!" /></a>
   <br/>
@@ -15,22 +15,22 @@
 
 ![Our team](https://github.com/neiesc/ta-pegando-fogo/raw/master/solution/our-team.jpeg)
 
-[Bruno Barreto Carvalho](https://www.facebook.com/people/Bruno-Barreto-Carvalho/100013237128030)
+* [Bruno Barreto Carvalho](https://www.facebook.com/people/Bruno-Barreto-Carvalho/100013237128030)
 
-[Edinei Cavalcanti](https://edinei.dev) (edinei.esc@gmail.com)
+* [Edinei Cavalcanti](https://edinei.dev) (edinei.esc@gmail.com)
 
-[Igor Tominaga Sanches](https://www.instagram.com/igor_oriental/) (igor_t.sanches@hotmail.com)
+* [Igor Tominaga Sanches](https://www.instagram.com/igor_oriental/) (igor_t.sanches@hotmail.com)
 
-[Jean Cabrera](https://www.facebook.com/JeanCabreraa)
+* [Jean Cabrera](https://www.facebook.com/JeanCabreraa)
 
-[Matheus Andrade](https://www.facebook.com/matheus.carreiraandrade)
+* [Matheus Andrade](https://www.facebook.com/matheus.carreiraandrade)
 
-[Matheus Henrique Figueiredo](https://www.facebook.com/matheushenrique.figueiredorafael)
+* [Matheus Henrique Figueiredo](https://www.facebook.com/matheushenrique.figueiredorafael)
 
-[Rafael Carreira](https://www.facebook.com/rafel747)
+* [Rafael Carreira](https://www.facebook.com/rafel747)
 
-[Rafael Landim](https://www.facebook.com/rafael.landim.3975)
+* [Rafael Landim](https://www.facebook.com/rafael.landim.3975)
 
-Renan Luz
+* Renan Luz
 
-[Sabrina Gonçalves](https://www.facebook.com/sabrina.goncalves.42)
+* [Sabrina Gonçalves](https://www.facebook.com/sabrina.goncalves.42)
